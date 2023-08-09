@@ -12,10 +12,12 @@
 # Link to [My Project Portfolio](https://jeffersonrj.vercel.app/html/projects.html) | [Live Preview](https://jefferson-jsproject.vercel.app)
 <br>
 
-1. Pokemon using [PokeAPI](https://pokeapi.co)
-    <br>By entering the same number as the number in the Pokedex, it will show the Pokemon's image.
-1. [Weather app]()
-    <br>Using [Open-Meteo API](https://open-meteo.com) To display precipitation and temperature in Tangerang, Indonesia.
+1. [Pokemon](https://jefferson-jsproject.vercel.app/1_PokeAPI/index.html) 
+    - using [PokeAPI](https://pokeapi.co)
+    - By entering the same number as the number in the Pokedex, it will show the Pokemon's image.
+1. [Weather app](https://jefferson-jsproject.vercel.app/2_weather_app/index.html)
+    - Using [Open-Meteo API](https://open-meteo.com) 
+    - To display precipitation and temperature in Tangerang, Indonesia.
 1.
 1.
 1.
