@@ -1,0 +1,76 @@
+
+@charset "UTF-8";
+
+html{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+.wrap{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.opening{
+    background-color: #212121;
+}
+.opening h1{
+    margin-top: 50px;
+}
+
+.op_poke{
+    border: 2px dashed #fff;
+
+    width: 100%;
+    height: 30vi;
+    align-items: center;
+  
+    display: flex;
+    padding-left: 25%;
+}
+.op_poke img{
+    width: 100%;
+    
+    /* align-items: center; */
+    
+}
+.no{
+    border: 2px solid #fff;
+}
+h2{
+    font-size: 14px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.op_play{
+    margin-top: 20px;
+}
+.op_play button:hover{
+    color: #13c4a5;
+    background-color: #dfe6e9;
+}
+
+@media (max-width:500px){
+    .op_poke{
+        border: 2px dashed #fff;
+
+        width: 100%;
+        height: 60vi;
+        align-items: center;
+
+        display: flex;
+        padding-left: 25%;
+    }
+    .op_poke .op_pokefront{
+        width: 100%;
+        height: 100px;
+        
+        
+        /* align-items: center; */
+        
+    }
+}
