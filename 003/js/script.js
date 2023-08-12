@@ -35,15 +35,15 @@
     //   generatePhoto();
 
 // });
-$(function(){
-  $("button").on("click",function(){
+// $(function(){
+//   $("button").on("click",function(){
 
-     let getno = $(".no").val();
-        console.log(getno);
+//      let getno = $(".no").val();
+//         console.log(getno);
 
-        let caturl = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + getno + ".png";
-        $(".catimg").attr("src",caturl);
+//         let caturl = "https://cdn2.thecatapi.com/images/" + getno + ".png";
+//         $(".catimg").attr("src",caturl);
         
         
-  });
-})
+//   });
+// })

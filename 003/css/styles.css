@@ -9,6 +9,11 @@ body {
     padding: 20px;
     font-family: 'Courier Prime', monospace;
     color: #dfe6e9;
+    font-size: 20px;
+    text-align: center;
   }
-  
+  .wrap{
+    width: 80%;
+    margin: 0 auto;
+}
  
