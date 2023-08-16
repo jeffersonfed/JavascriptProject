@@ -47,18 +47,35 @@
         
 //   });
 // })
-$(document).ready(function(){
-    const api_url ="https://zenquotes.io/api/quotes/";
+// $(document).ready(function(){
+//     const api_url ="https://zenquotes.io/api/quotes/";
     
-    async function getapi(url)
-    {
-      const response = await fetch(url);
-      var data = await response.json();
-      console.log(data);
-    }
+//     async function getapi(url)
+//     {
+//       const response = await fetch(url);
+//       var data = await response.json();
+//       console.log(data);
+//     }
     
-    getapi(api_url);
+//     getapi(api_url);
 
     
 
-});
+// });
+const catImage = document.getElementById("catImage");
+const newCatButton = document.getElementById("newCatButton");
+
+newCatButton.addEventListener("click", fetchRandomCat);
+
+async function fetchRandomCat() {
+  try {
+    const response = await fetch("https://api.thecatapi.com/v1/images/search");
+    const data = await response.json();
+    const imageUrl = data[0].url;
+    catImage.src = imageUrl;
+  } catch (error) {
+    console.error("Error fetching cat image:", error);
+  }
+}
+
+fetchRandomCat();
