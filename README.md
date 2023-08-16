@@ -20,8 +20,10 @@
 1. [Weather app](https://jefferson-jsproject.vercel.app/002_weather_app/index.html)
     - Using [Open-Meteo API](https://open-meteo.com) 
     - To display precipitation and temperature in Tangerang, Indonesia.
-1.
-1.
+1. [CatAPI](https://jefferson-jsproject.vercel.app/003_catAPI/index.html)
+    - using [CatAPI](https://thecatapi.com)
+    - Random Cat Generator
+1. 
 1.
 
 P.S. Most probably, it will be all about APIs.
