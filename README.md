@@ -25,8 +25,10 @@
 1. [CatAPI](https://jefferson-jsproject.vercel.app/003_catAPI/index.html)
     - using [CatAPI](https://thecatapi.com)
     - Random Cat Generator
-1. 
-1.
+1. [ToDoListApp](https://jefferson-jsproject.vercel.app/005_ToDoList/index.html)
+    - Simple To-Do-List App
+1. [Generator and counter](https://jefferson-jsproject.vercel.app/006_Generator/index.html)
+    - Create a Random Number Generator, Color Generator and counter
 
 P.S. Most probably, it will be all about APIs.
 
