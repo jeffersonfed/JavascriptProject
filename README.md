@@ -16,7 +16,7 @@
 # Link to [My Project Portfolio](https://jeffersonrj.vercel.app/html/projects.html) | [Live Preview](https://jefferson-jsproject.vercel.app)
 <br>
 
-1. [Pokemon](https://jefferson-jsproject.vercel.app/001_PokeAPI/index.html) 
+<!-- 1. [Pokemon](https://jefferson-jsproject.vercel.app/001_PokeAPI/index.html) 
     - using [PokeAPI](https://pokeapi.co)
     - By entering the same number as the number in the Pokedex, it will show the Pokemon's image.
 1. [Weather app](https://jefferson-jsproject.vercel.app/002_weather_app/index.html)
@@ -28,7 +28,7 @@
 1. [ToDoListApp](https://jefferson-jsproject.vercel.app/005_ToDoList/index.html)
     - Simple To-Do-List App
 1. [Generator and counter](https://jefferson-jsproject.vercel.app/006_Generator/index.html)
-    - Create a Random Number Generator, Color Generator and counter
+    - Create a Random Number Generator, Color Generator and counter -->
 
 P.S. Most probably, it will be all about APIs.
 
