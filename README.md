@@ -16,6 +16,12 @@
 # Link to [My Project Portfolio](https://jeffersonrj.vercel.app/html/projects.html) | [Live Preview](https://jefferson-jsproject.vercel.app)
 <br>
 
+# Tech Stack:
+- HTML5
+- CSS
+- Bootstrap 5
+- Javascript
+
 <!-- 1. [Pokemon](https://jefferson-jsproject.vercel.app/001_PokeAPI/index.html) 
     - using [PokeAPI](https://pokeapi.co)
     - By entering the same number as the number in the Pokedex, it will show the Pokemon's image.
